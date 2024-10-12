@@ -97,9 +97,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ---
 
-## [Tutorials](https://ismir2023.ismir.net/tutorials/)
+## [Tutorials](https://ismir2024.ismir.net/tutorials/)
 
-| **Title** | **Material** |
+<!-- | **Title** | **Material** |
 |--------|:---------:|
 |[Analysing Physiological Data Collected During Music Listening: An Introduction](https://ismir2023.ismir.net/tutorials/#1-analysing-physiological-data-collected-during-music-listening-an-introduction)|[![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://laurabishop.github.io/MusicDiscoveryPupil/)|
 |[Introduction to Differentiable Audio Synthesizer Programming](https://ismir2023.ismir.net/tutorials/#2-introduction-to-differentiable-audio-synthesizer-programming)|[![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://intro2ddsp.github.io/)|
@@ -107,7 +107,17 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |[Computer-Assisted Music-Making Systems: Taxonomy, Review, and Coding](https://ismir2023.ismir.net/tutorials/#4-computer-assisted-music-making-systems-taxonomy-review-and-coding)|:heavy_minus_sign:|
 |[Learning with Music Signals: Technology Meets Education](https://ismir2023.ismir.net/tutorials/#5-learning-with-music-signals-technology-meets-education)|:heavy_minus_sign:|
 |[Kymatio: Deep Learning Meets Wavelet Theory for Music Signal Processing](https://ismir2023.ismir.net/tutorials/#6-kymatio-deep-learning-meets-wavelet-theory-for-music-signal-processing)|[![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.kymat.io/ismir23-tutorial/intro.html)|
----
+--- -->
+| **Title** | **Material** |
+|--------|:---------:|
+|[Connecting Music Audio and Natural Language](https://ismir2023.ismir.net/tutorials/#1-analysing-physiological-data-collected-during-music-listening-an-introduction)|:heavy_minus_sign:|
+|[Exploring 25 Years of Music Information Retrieval: Perspectives and Insights](https://ismir2023.ismir.net/tutorials/#2-introduction-to-differentiable-audio-synthesizer-programming)|:heavy_minus_sign:|
+|[From White Noise to Symphony: Diffusion Models for Music and Sound](https://ismir2023.ismir.net/tutorials/#3-transformer-based-symbolic-music-generation-fundamentals-to-advanced-concepts-stylistic-considerations-conditioning-mechanisms-and-large-language-models)|:heavy_minus_sign:|
+|[Humans at the Center of MIR: Human-subjects Research Best Practices](https://ismir2023.ismir.net/tutorials/#4-computer-assisted-music-making-systems-taxonomy-review-and-coding)|:heavy_minus_sign:|
+|[Deep Learning 101 for Audio-based MIR](https://ismir2023.ismir.net/tutorials/#5-learning-with-music-signals-technology-meets-education)|:heavy_minus_sign:|
+|[Lyrics and Singing Voice Processing in Music Information Retrieval: Analysis, Alignment, Transcription and Applications](https://ismir2023.ismir.net/tutorials/#6-kymatio-deep-learning-meets-wavelet-theory-for-music-signal-processing)|:heavy_minus_sign:|
+
+
 
 ## [Papers](https://ismir2023.ismir.net/)
 
